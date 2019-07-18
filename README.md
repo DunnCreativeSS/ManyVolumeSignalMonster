@@ -18,7 +18,17 @@ This repo exists to provide a 'sponsor' link (should I get approved for the beta
 ## Word to the wise
 
 
-10% tier-1, 5% tier-2 affiliate commissions on contributions or subscriptions - as a fraction of total weighted value, which means recurring revenues :) :)
+10% Tier-1, 5% Tier-2 affiliate commissions on contributions or subscriptions - as a fraction of total weighted value, which means recurring revenues :) :) Here's what I mean: https://docs.google.com/spreadsheets/d/1qUSILqCyizkqF-p5k_6ovuSWNsmtfofD77u4tSTq_Ds/edit?usp=sharing - notice Free Lunch Lady? She didn't contribute a dime but she's earned a steady stream of income through affiliate marketing :D
+
+
+## Want to earn MoAr???!?
+
+
+1. It's like an open-ended bounty campaign...
+2. Can you do a service?
+3. Can you add value?
+4. Social media, blogs, or any kind of qualified traffic will do the trick!
+5. Anyone who contributes any amount of work more than just referring friends & family will earn a % additional 1-Tier and 2-Tier commissions scaling according to cost-effort!
 
 
 ## Share the riches!
@@ -68,6 +78,12 @@ Note that the second testnet account is using the UI configurable default 'order
 
 
 I've added whitelisting of API keys or account #s so it's now ready to sell :) 
+
+
+## Not a fan of BitMEX?
+
+
+More exchanges to come, tbd! I'm available for bribes to fork into your favorite exchanges :)
 
 
 ## Get me into Github Sponsors Beta 
