@@ -27,7 +27,7 @@ This repo exists to provide a 'sponsor' link (should I get approved for the beta
 1. It's like an open-ended bounty campaign...
 2. Can you do a service?
 3. Can you add value?
-4. Social media, blogs, or any kind of qualified traffic will do the trick!
+4. Social media, blogs, email marketing, PPC, or any kind of qualified traffic from marketing will do the trick!
 5. Anyone who contributes any amount of work more than just referring friends & family will earn a % additional 1-Tier and 2-Tier commissions scaling according to cost-effort!
 
 
