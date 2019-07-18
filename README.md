@@ -6,7 +6,7 @@ join our growing community! https://t.me/makemarketsgeneratecrypto
 
 ## What is it?
 
-https://aggr.trade reimagined to use buy/sell signals in automated trades!
+https://aggr.trade https://github.com/Tucsky/SignificantTrades reimagined to use buy/sell signals in automated trades!
 
 
 Supporting BitMEX for now on livenet+testnet, with more exchanges tbd...
