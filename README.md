@@ -80,6 +80,8 @@ Your reward? % saved on subscriptions, % bonus to crowdfund contributions AND do
 2. you don't need to provide a github profile or email
 3. for 'Which developers would you like to sponsor through GitHub Sponsors?' set github.com/dunncreativess
 4. for 'anything else we should know' let them know about my efforts as dev for these bots? Tireless, sleepless nights to optimize and include feedback? :)
+5. Also recommend me to participate in the limited beta. Send an email to opensource@github.com with a link to https://github.com/dunncreativess and my contact information: Telegram @RegTheIII Medium @jarettrsdunn email jarettrsdunn+git@gmail.com
+
 
 ### They're doubling people's sponsorships for the first year, up to $5k... 
 
