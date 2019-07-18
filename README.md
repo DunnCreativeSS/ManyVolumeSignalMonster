@@ -2,7 +2,7 @@
 
 ## Telegram!
 
-join our growing community! https://t.me/makemarketsgeneratecrypto
+join our growing community! https://t.me/ManyVolumeSignalMonster
 
 ## What is it?
 
@@ -150,4 +150,4 @@ First for pointing out strategy, then I forgot and gave him another free lifetim
 6. except when avail margin < 17.5% (will later be a configurable variable), then it stops buying in current pos direction
 7. it'll miss out some of the orders, ensuring it stays pos/neg on longer swings - fun fact there's an unused 'testingtesting123' variable that could be made into a configurable one that enters the original limit orders at the opposite of bid/ask for buy/sell, which fills orders much much quicker at the expense of fees...
 
-# join our growing community! https://t.me/makemarketsgeneratecrypto
+# join our growing community! https://t.me/ManyVolumeSignalMonster
