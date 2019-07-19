@@ -4,6 +4,16 @@
 
 join our growing community! https://t.me/ManyVolumeSignalMonster
 
+## Trello Board!
+
+
+
+https://trello.com/b/vQ0WFMIH/many-volume-signal-monster
+
+
+
+You can sign up to Trello (free, can be anonymous) to vote on features :)
+
 ## What is it?
 
 https://aggr.trade https://github.com/Tucsky/SignificantTrades reimagined to use buy/sell signals in automated trades!
