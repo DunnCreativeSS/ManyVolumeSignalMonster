@@ -122,7 +122,7 @@ Code for live / test is available on request for audits
 1. if livenet, get an ADDITIONAL 10% discount on fees: https://www.bitmex.com/register/30KY2F - stop loss + take profit orders will earn me affiliate income...
 2. run chromium-browser --disable-web-security --user-data-dir=~/ or google-chrome --disable-web-security --user-data-dir=~/ - Windows and Mac directions: https://www.codevoila.com/post/75/how-to-disable-same-origin-policy-in-chrome
 3. http://35.239.130.201/ testnet
-4. http://34.68.94.126/ livenet
+4. http://35.239.130.201:8080/ livenet
 5. 'couldn't load history' is a-ok
 6. in settings, set trailstop+stoploss+takeprofit %s
 7. in settings, set keys (be sure to tab / click off so they save)
