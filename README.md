@@ -43,7 +43,7 @@ This repo exists to provide a 'sponsor' link (should I get approved for the beta
 
 ## Share the riches!
 
-CONTRIBUTION FUND: 3BMEXpTrCRmV55ziRjTMu4zMGCU1UrbUbi
+CONTRIBUTION FUND: 3BMEXZF3i5oPeeasscPQKFjdi1EbV8YUPC
 
 1. Send me TX, I'll keep track of who has how much %
 2. I'll take 30% of realized profits weekly, the other 70% goes back to contributors weekly
