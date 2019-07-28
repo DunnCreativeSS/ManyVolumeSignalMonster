@@ -1,5 +1,7 @@
 # ManyVolumeSignalMonster
 
+# Follow bot statuses: http://blockchainvoice.site:3000/
+
 ## Telegram!
 
 join our growing community! https://t.me/ManyVolumeSignalMonster
@@ -131,8 +133,8 @@ Code for live / test is available on request for audits
 0. provide me with your API key for livenet/testnet, I'll add it to the valid keys spreadsheet (bots running without a valid key won't make any POST requests...like place orders)
 1. if livenet, get an ADDITIONAL 10% discount on fees: https://www.bitmex.com/register/30KY2F - stop loss + take profit orders will earn me affiliate income...
 2. run chromium-browser --disable-web-security --user-data-dir=~/ or google-chrome --disable-web-security --user-data-dir=~/ - Windows and Mac directions: https://www.codevoila.com/post/75/how-to-disable-same-origin-policy-in-chrome
-3. http://35.239.130.201/ testnet
-4. http://35.239.130.201:8080/ livenet
+3. http://blockchainvoice.site testnet (defunct!)
+4. http://blockchainvoice.site livenet
 5. 'couldn't load history' is a-ok
 6. in settings, set trailstop+stoploss+takeprofit %s
 7. in settings, set keys (be sure to tab / click off so they save)
@@ -143,7 +145,7 @@ Code for live / test is available on request for audits
 12. wait 14 10s intervals for volume SMAs
 13. check dev tools console for errors (change log level, turn off info/debug)
 14. after SMAs cross, it'll enter a buy/sell - and if the orders fill then trailstop+takeprofit+stoploss
-15. check performance of all bots here: http://35.239.130.201:3000/
+15. check performance of all bots here: http://blockchainvoice.site:3000/
 16. you can lessen short-term sensitivity two ways: 1. increase timeframe (from 10s) 2. increase SMA length (from 14)
 
 ## @crypto_tra gets free lifetime subscription 
